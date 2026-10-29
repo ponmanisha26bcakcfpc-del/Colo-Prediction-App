@@ -6,7 +6,10 @@ https://www.figma.com/proto/wuk8LvRUFhlL59UC6NWzg2/Untitled?node-id=0-1&t=jdsKoq
 
 Design 
 
-https://www.figma.com/design/wuk8LvRUFhlL59UC6NWzg2/Untitled?node-id=0-1&p=f&t=jdsKoqFGhGa7iaFN-0✨ Project Overview
+https://www.figma.com/design/wuk8LvRUFhlL59UC6NWzg2/Untitled?node-id=0-1&p=f&t=jdsKoqFGhGa7iaFN-0
+
+
+✨ Project Overview
 
 This is a Color Prediction App UI Design created using Figma. The application allows users to select colors, view color results, and explore a simple color-based interface.
 
